@@ -1,0 +1,3187 @@
+[
+  {
+    "id": "CVE-2015-6634",
+    "issues": [
+      "ANDROID-24163261"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in Display Driver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/hardware/qcom/display/+/25016fd2865943dec1a6b2b167ef85c772fb90f7",
+      "https://android.googlesource.com/platform/hardware/qcom/display/+/0787bc222a016e944f01492c2dd04bd03c1da6af",
+      "https://android.googlesource.com/platform/hardware/qcom/display/+/95c2601aab7f27505e8b086fdd1f1dce31091e5d",
+      "https://android.googlesource.com/platform/hardware/qcom/display/+/45660529af1f4063a00e84aa2361649e6a9a878c"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6633",
+    "issues": [
+      "ANDROID-23987307"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in Display Driver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6619",
+    "issues": [
+      "ANDROID-23520714"
+    ],
+    "components": [
+      "Elevation of Privilege in Kernel"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/device/htc/flounder-kernel/+/25d3e5d71865a7c0324423fad87aaabb70e82ee4"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6617",
+    "issues": [
+      "ANDROID-23648740"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerability in Skia"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/skia/+/a1d8ac0ac0af44d74fc082838936ec265216ab60"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6616",
+    "issues": [
+      "ANDROID-24630158"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/257b3bc581bbc65318a4cc2d3c22a07a4429dc1d"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6632",
+    "issues": [
+      "ANDROID-24346430"
+    ],
+    "components": [
+      "Information Disclosure Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/5cae16bdce77b0a3ba590b55637f7d55a2f35402"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6631",
+    "issues": [
+      "ANDROID-24623447"
+    ],
+    "components": [
+      "Information Disclosure Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/7ed8d1eff9b292b3c65a875b13a549e29654534b"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6629",
+    "issues": [
+      "ANDROID-22667667"
+    ],
+    "components": [
+      "Information Disclosure Vulnerability in Wi-Fi"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and 5.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/8b41627f7411306a0c42867fb526fa214f2991cd"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6628",
+    "issues": [
+      "ANDROID-24074485"
+    ],
+    "components": [
+      "Information Disclosure Vulnerability in Media Framework"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/5e7e87a383fdb1fece977097a7e3cc51b296f3a0"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6627",
+    "issues": [
+      "ANDROID-24211743"
+    ],
+    "components": [
+      "Information Disclosure Vulnerability in Audio"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/8c987fa71326eb0cc504959a5ebb440410d73180"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6626",
+    "issues": [
+      "ANDROID-24310423"
+    ],
+    "components": [
+      "Information Disclosure Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/8dde7269a5356503d2b283234b6cb46d0c3f214e"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6624",
+    "issues": [
+      "ANDROID-23999740"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in System Server"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f86a441cb5b0dccd3106019e578c3535498e5315"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6623",
+    "issues": [
+      "ANDROID-24872703"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Wi-Fi"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/a15a2ee69156fa6fff09c0dd9b8182cb8fafde1c"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6622",
+    "issues": [
+      "ANDROID-23905002"
+    ],
+    "components": [
+      "Information Disclosure Vulnerability in Native Frameworks Library"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/native/+/5d17838adef13062717322e79d4db0b9bb6b2395"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6621",
+    "issues": [
+      "ANDROID-23909438"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in SystemUI"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0",
+      "5.1",
+      "and 6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/e70e8ac93807c51240b2cd9afed35bf454ea00b3"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6620",
+    "issues": [
+      "ANDROID-24123723"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/2b8cd9cbb3e72ffd048ffdd1609fac74f61a22ac"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6618",
+    "issues": [
+      "ANDROID-24595992"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerability in Bluetooth"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "4.4",
+      "5.0",
+      "and 5.1"
+    ],
+    "commits": [
+
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6630",
+    "issues": [
+      "ANDROID-19121797"
+    ],
+    "components": [
+      "Information Disclosure Vulnerability in SystemUI"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0",
+      "5.1",
+      "and 6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/51c2619c7706575a171cf29819db14e91b815a62"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6625",
+    "issues": [
+      "ANDROID-23936840"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in System Server"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/29fa7d2ffc3bba55173969309e280328b43eeca1"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-12-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-12-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6609",
+    "issues": [
+      "ANDROID-22953624"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerability in libutils"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/bootable/recovery/+/ec63d564a86ad5b30f75aa307b4bd271f6a96a56",
+      "https://android.googlesource.com/platform/system/core/+/419e6c3c68413bd6dbb6872340b2ae0d69a0fd60"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6608",
+    "issues": [
+      "ANDROID-19779574"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0",
+      "5.1",
+      "6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/8ec845c8fe0f03bc57c901bc484541bdd6a7cf80"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6613",
+    "issues": [
+      "ANDROID-24371736"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Bluetooth"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/system/bt/+/74dad51510f7d7b05c6617ef88168bf0bbdf3fcd"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6612",
+    "issues": [
+      "ANDROID-23540426"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in libmedia"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/4b219e9e5ab237eec9931497cf10db4d78982d84"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6611",
+    "issues": [
+      "ANDROID-23905951"
+    ],
+    "components": [
+      "Information Disclosure Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/1c7719820359f4190cd4bfd1a24d521face7b4f8",
+      "https://android.googlesource.com/platform/frameworks/av/+/3b76870d146b1350db8a2f7797e06897c8c92dc2",
+      "https://android.googlesource.com/platform/frameworks/av/+/40715a2ee896edd2df4023d9f6f586977887d34c"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6610",
+    "issues": [
+      "ANDROID-23707088"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "6.0 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/d26052738f7b095b7e318c8dde7f32db0a48450c",
+      "https://android.googlesource.com/platform/frameworks/av/+/820c105f7a4dc0971ee563caea4c9b346854a2f7"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6614",
+    "issues": [
+      "ANDROID-21900139"
+    ],
+    "components": [
+      "Elevation Of Privilege Vulnerability in Telephony"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0",
+      "5.1"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/telephony/+/70dd1f77873913635288e513564a6c93ae4d0a26",
+      "https://android.googlesource.com/platform/frameworks/base/+/a12044215b1148826ea9a88d5d1102378b13922f",
+      "https://android.googlesource.com/platform/frameworks/base/+/2b6af396ad14def9a967f62cccc87ee715823bb1"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-11-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-11-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6604",
+    "issues": [
+      "ANDROID-23129786"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f51115bd8e44c2779b74477277c6f6046916e7cf"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6603",
+    "issues": [
+      "ANDROID-23227354"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/c37f7f6fa0cb7f55cdc5b2d4ccbf2c87c3bc6c3b"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6602",
+    "issues": [
+      "ANDROID-23290056"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libutils"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/system/core/+/e0dce90b0de2b2b7c2baae8035f810a55526effb",
+      "https://android.googlesource.com/platform/system/core/+/5b85b1d40d619c2064d321364f212ebfeb6ba185"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6601",
+    "issues": [
+      "ANDROID-22935234"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/738a753a3ca7bf8f9f608ca941575626265294e4"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6600",
+    "issues": [
+      "ANDROID-22882938"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/e6f5d47a7f9eab8a0009f8a563de473cd47d3110"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6599",
+    "issues": [
+      "ANDROID-23416608"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/af7e33f6043c0be1c0310d675884e3b263ca2438"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6598",
+    "issues": [
+      "ANDROID-23306638"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/ba6093a4c6997b9d36d9700ee8c974941bf82e3a"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3877",
+    "issues": [
+      "ANDROID-20723696"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerability in Skia"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/skia/+/55ad31336a6de7037139820558c5de834797c09e"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3876",
+    "issues": [
+      "ANDROID-23285192"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/c580c836c1941fb4912e1dd4e08626caf98a62c7"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3875",
+    "issues": [
+      "ANDROID-22952485"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libutils"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/system/core/+/0cc9a6e6e1f8e675c1238e5e05418cabcc699b52"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3874",
+    "issues": [
+      "ANDROID-23335715"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in Sonivox"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/sonivox/+/8cbef48ba6e3d3f844b895f8ca1a1aee74414fff"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3873",
+    "issues": [
+      "ANDROID-20674086"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/c23e3dd8af7397f023aae040c4a03dd14091cbed",
+      "https://android.googlesource.com/platform/frameworks/av/+/9abb7401df730b5c510f6b8dac2716a0928d9623",
+      "https://android.googlesource.com/platform/frameworks/av/+/b62a73b860757143d3b140b2985fdae71e18d675",
+      "https://android.googlesource.com/platform/frameworks/av/+/b2ae4351539de9aa4667fcb3e02ba40d9c6bd094"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3872",
+    "issues": [
+      "ANDROID-23346388"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/4d46f6f18f5160b8992ec1e66ef1844212fc7d48"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3871",
+    "issues": [
+      "ANDROID-23031033"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/c570778430a22b5488cae72982cf9fb8033dbda3"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3870",
+    "issues": [
+      "ANDROID-22771132"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/4bce636865bdf0e2a79fc9a5d9a69107649c850d"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3869",
+    "issues": [
+      "ANDROID-23036083"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/450e1015b7939292ca988dd1b4f0303a094478e9"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3868",
+    "issues": [
+      "ANDROID-23270724"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/937c6bedd4b6e5c6cb29a238eb459047dedd3486"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3867",
+    "issues": [
+      "ANDROID-23213430"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/7e9ac3509d72e8dc6f1316b5ce0a0066638b9737"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3823",
+    "issues": [
+      "ANDROID-21335999"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libstagefright"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/407d475b797fdc595299d67151230dc6e3835ccd"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-9028",
+    "issues": [
+      "ANDROID-18872897"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerabilities in libFLAC"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/flac/+/fe03f73d86bb415f5d5145f0de091834d89ae3a9",
+      "https://android.googlesource.com/platform/external/flac/+/5859ae22db0a2d16af3e3ca19d582de37daf5eb6"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6606",
+    "issues": [
+      "ANDROID-22301786"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Secure Element Evaluation Kit"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6596",
+    "issues": [
+      "ANDROID-20731946"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/b97ee930e4f7ed1587b869c92b4aa1dc90b641cc"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3879",
+    "issues": [
+      "ANDROID-23223325"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Media Player Framework"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/aa4da6fa7ca2454f0713de0a5a583b5b8160166b"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3865",
+    "issues": [
+      "ANDROID-23050463"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Android Runtime"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/ff8dc21278b19b22ed8dc9f9475850838336d351",
+      "https://android.googlesource.com/platform/cts/+/3f7334822ba4cc53f81f22f3519093bf4e1d7f89"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6607",
+    "issues": [
+      "ANDROID-20099586"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerabilities in SQLite"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/sqlite/+/3fcd43a0f1ef02756029e12af3cb9ba9faa13364"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3878",
+    "issues": [
+      "ANDROID-23345192"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Media Projection"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 - 6.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/b3145760db5d58a107fd1ffd8eeec67d983d45f3"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3847",
+    "issues": [
+      "ANDROID-22343270"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Bluetooth"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/packages/apps/Bluetooth/+/19004c751f36aa2b01d3e03d4f761d8897542bd2"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6605",
+    "issues": [
+      "ANDROID-20915134"
+    ],
+    "components": [
+      "Denial of Service Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/tremolo/+/36ec928f52271dd1feb4c86b18026564220629e9"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3862",
+    "issues": [
+      "ANDROID-22954006"
+    ],
+    "components": [
+      "Denial of Service Vulnerabilities in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f26400c9d01a0e2f71690d5ebc644270f098d590"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3864",
+    "issues": [
+      "ANDROID-23034759"
+    ],
+    "components": [
+      "Remote Code Execution Vulnerability in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/6fe85f7e15203e48df2cc3e8e1c4bc6ad49dc968"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3636",
+    "issues": [
+      "ANDROID-20770158"
+    ],
+    "components": [
+      "Elevation Privilege Vulnerability in Kernel"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://github.com/torvalds/linux/commit/a134f083e79f"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3863",
+    "issues": [
+      "ANDROID-22802399"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Keystore",
+      "Elevation of Privilege Vulnerability in KeyStore"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/system/security/+/bb9f4392c2f1b11be3acdc1737828274ff1ec55b",
+      "https://android.googlesource.com/platform/system/security/+/0d5935262dbbcaf2cf6145529ffd71a728ef4609"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-10-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-10-01",
+        "patch_levels": [
+
+        ]
+      },
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3858",
+    "issues": [
+      "ANDROID-22314646"
+    ],
+    "components": [
+      "Elevation of Privilege vulnerability in SMS enables notification bypass"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/telephony/+/df31d37d285dde9911b699837c351aed2320b586"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3849",
+    "issues": [
+      "ANDROID-20883006"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Region"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/4cff1f49ff95d990d6c2614da5d5a23d02145885",
+      "https://android.googlesource.com/platform/frameworks/base/+/1e72dc7a3074cd0b44d89afbf39bbf5000ef7cc3"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3845",
+    "issues": [
+      "ANDROID-17312693"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Binder"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/native/+/e68cbc3e9e66df4231e70efa3e9c41abc12aea20"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1528",
+    "issues": [
+      "ANDROID-19334482"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Binder"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/native/+/7dcd0ec9c91688cfa3f679804ba6e132f9811254",
+      "https://android.googlesource.com/platform/system/core/+/e8c62fb484151f76ab88b1d5130f38de24ac8c14"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3860",
+    "issues": [
+      "ANDROID-22214934"
+    ],
+    "components": [
+      "Elevation of Privilege Vulnerability in Lockscreen"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and 5.0"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/8fba7e6931245a17215e0e740e78b45f6b66d590"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3861",
+    "issues": [
+      "ANDROID-21296336"
+    ],
+    "components": [
+      "Denial of Service Vulnerability in Mediaserver"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/304ef91624e12661e7e35c2c0c235da84a73e9c0"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-09-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-09-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3836",
+    "issues": [
+      "ANDROID-21132860"
+    ],
+    "components": [
+      "Buffer overflow in Sonivox Parse_wave"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/sonivox/+/e999f077f6ef59d20282f1e04786816a31fb8be6"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3832",
+    "issues": [
+      "ANDROID-19641538"
+    ],
+    "components": [
+      "Buffer overflows in libstagefright MPEG4Extractor.cpp"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/d48f0f145f8f0f4472bc0af668ac9a8bce44ba9b"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3829",
+    "issues": [
+      "ANDROID-20923261"
+    ],
+    "components": [
+      "Integer overflow in libstagefright processing MPEG4 covr atoms when chunk_data_size is SIZE_MAX"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 and above"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/2674a7218eaa3c87f2ee26d26da5b9170e10f859"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3828",
+    "issues": [
+      "ANDROID-20923261"
+    ],
+    "components": [
+      "Integer underflow in libstagefright if size is below 6 while processing 3GPP metadata"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 and above"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3827",
+    "issues": [
+      "ANDROID-20923261"
+    ],
+    "components": [
+      "Integer underflow in libstagefright when processing MPEG4 covr atoms"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f4a88c8ed4f8186b3d6e2852993e063fc33ff231"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3824",
+    "issues": [
+      "ANDROID-20923261"
+    ],
+    "components": [
+      "Integer overflow in libstagefright when parsing the MPEG4 tx3g atom"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/463a6f807e187828442949d1924e143cf07778c6"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1539",
+    "issues": [
+      "ANDROID-20139950"
+    ],
+    "components": [
+      "An integer underflow in ESDS processing"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/5e751957ba692658b7f67eb03ae5ddb2cd3d970c"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1538",
+    "issues": [
+      "ANDROID-20139950"
+    ],
+    "components": [
+      "Integer overflows during MP4 atom processing"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/cf1581c66c2ad8c5b1aaca2e43e350cf5974f46d",
+      "https://android.googlesource.com/platform/frameworks/av/+/2434839bbd168469f80dd9a22f1328bc81046398"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3843",
+    "issues": [
+      "ANDROID-21697171"
+    ],
+    "components": [
+      "Applications can intercept or emulate SIM commands to Telephony"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/opt/telephony/+/b48581401259439dc5ef6dcf8b0f303e4cbefbe9",
+      "https://android.googlesource.com/platform/packages/apps/Stk/+/1d8e00160c07ae308e5b460214eb2a425b93ccf7",
+      "https://android.googlesource.com/platform/frameworks/base/+/a5e904e7eb3aaec532de83ca52e24af18e0496b4",
+      "https://android.googlesource.com/platform/packages/services/Telephony/+/fcb1d13c320dd1a6350bc7af3166929b4d54a456"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3842",
+    "issues": [
+      "ANDROID-21953516"
+    ],
+    "components": [
+      "Heap overflow in mediaserver AudioPolicyManager::getInputForAttr()"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/aeea52da00d210587fb3ed895de3d5f2e0264c88"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3837",
+    "issues": [
+      "ANDROID-21437603"
+    ],
+    "components": [
+      "Memory Corruption in OpenSSLX509Certificate Deserialization"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/conscrypt/+/edf7055461e2d7fa18de5196dca80896a56e3540"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3835",
+    "issues": [
+      "ANDROID-20634516"
+    ],
+    "components": [
+      "Buffer overflow in libstagefright OMXNodeInstance::emptyBuffer"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/086d84f45ab7b64d1a7ed7ac8ba5833664a6a5ab",
+      "https://android.googlesource.com/platform/frameworks/av/+/3cb1b6944e776863aea316e25fdc16d7f9962902"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3834",
+    "issues": [
+      "ANDROID-20222489"
+    ],
+    "components": [
+      "Buffer overflow in mediaserver BnHDCP"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/c82e31a7039a03dca7b37c65b7890ba5c1e18ced"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3831",
+    "issues": [
+      "ANDROID-19400722"
+    ],
+    "components": [
+      "Buffer overflow in mediaserver BpMediaHTTPConnection"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 and 5.1"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/51504928746edff6c94a1c498cf99c0a83bedaed"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1863",
+    "issues": [
+      "ANDROID-20076874"
+    ],
+    "components": [
+      "Remotely exploitable memcpy() overflow in p2p_add_device() in wpa_supplicant"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/wpa_supplicant_8/+/4cf0f2d0d869c35a9ec4432861d5efa8ead4279c"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-0973",
+    "issues": [
+      "ANDROID-19499430"
+    ],
+    "components": [
+      "Vulnerability in libpng: Overflow in png_Read_IDAT_data"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/external/libpng/+/dd0ed46397a05ae69dc8c401f5711f0db0a964fa"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3844",
+    "issues": [
+      "ANDROID-21669445"
+    ],
+    "components": [
+      "ActivityManagerService.getProcessRecordLocked() may load a system UID application into the wrong process"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/e3cde784e3d99966f313fe00dcecf191f6a44a31"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3833",
+    "issues": [
+      "ANDROID-20034603"
+    ],
+    "components": [
+      "Mitigation bypass of restrictions on getRecentTasks()"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 and 5.1"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/aaa0fee0d7a8da347a0c47cef5249c70efee209e"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1541",
+    "issues": [
+      "ANDROID-19618745"
+    ],
+    "components": [
+      "AppWidgetServiceImpl can create IntentSender with system privileges"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/0b98d304c467184602b4c6bce76fda0b0274bc07"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1536",
+    "issues": [
+      "ANDROID-19666945"
+    ],
+    "components": [
+      "Vulnerability in Bitmap unmarshalling"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Moderate"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.1 and below"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/base/+/d44e5bde18a41beda39d49189bef7f2ba7c8f3cb"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3826",
+    "issues": [
+      "ANDROID-20923261"
+    ],
+    "components": [
+      "Unbounded buffer read in libstagefright while parsing 3GPP metadata"
+    ],
+    "types": [
+
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "itw_references": [
+
+    ],
+    "versions": [
+      "5.0 and 5.1"
+    ],
+    "commits": [
+      "https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1"
+    ],
+    "references": [
+
+    ],
+    "bulletins": [
+      {
+        "date": "2015-08-01",
+        "advisory": "https://source.android.com/docs/security/bulletin/2015-08-01",
+        "patch_levels": [
+
+        ]
+      }
+    ]
+  }
+]
